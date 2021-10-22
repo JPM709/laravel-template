@@ -1,4 +1,4 @@
-# Welcome To the Laravel boilerplate
+# Welcome To the Laravel Template Project
 
 ## License
 
